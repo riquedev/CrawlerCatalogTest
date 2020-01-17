@@ -1,2 +1,8 @@
 title: test
 uuid: 641df046-0e28-4b94-b0e2-1d63ac4875d6
+description: Test catalog
+
+catalog:
+  - ES Crawler
+  - SP Crawler
+  - RJ Crawler  
